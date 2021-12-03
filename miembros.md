@@ -17,6 +17,4 @@
 * Vision
 * Wasp
 * Antman
-* Superman
-* Batman 
 * Nick Fury
