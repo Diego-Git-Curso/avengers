@@ -19,3 +19,4 @@
 * Antman
 * Superman
 * Batman 
+* Nick Fury
